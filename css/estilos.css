@@ -1,0 +1,82 @@
+
+
+/* header {
+    background: rgb(59, 58, 92);
+
+} */
+
+/* selector de etiqueta header - section - article - nav */
+/* selector descendente */
+/* body header div nav ol li a */
+
+/*  */
+.link {
+    color: #000;
+}
+
+/* selector de id  */
+#portafolio {
+    color: #000;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 1.3;
+    letter-spacing: -.2px;
+}
+
+h1 strong {
+    color: blue;
+}
+
+.project-imageContainer {
+    width: 500px;
+}
+
+.header { 
+    background-color: #1b2537;
+    color: white;
+    height: 100px;
+    padding: 1px;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    height: 300px;
+    background-image: url('../images/perfil.jpg');
+    background-repeat: no-repeat;
+    background-position: 23cm;
+    background-size: 300px 300px;
+    background-color: rgb(43, 42, 42);
+}
+
+
+.hero h1 {
+    padding-left: 4cm;
+    padding-top: 1cm;
+    color: white;
+}
+
+.project {
+    border: 1px solid gray;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    
+}
+
+.project-details {
+    width: 500px;
+}
