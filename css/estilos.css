@@ -32,6 +32,7 @@ h1 {
     font-size: 60px;
     line-height: 1.3;
     letter-spacing: -.2px;
+    margin: 10px;
 }
 
 h1 strong {
@@ -73,8 +74,8 @@ h1 strong {
 .project {
     border: 1px solid gray;
     border-radius: 10px;
-    border-top-left-radius: 50px;
-    
+    margin-bottom: 15px;
+
 }
 
 .project-details {
